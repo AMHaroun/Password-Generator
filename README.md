@@ -1,10 +1,8 @@
 # Password Generator
 
-![Project Logo](images/project-logo.png)
+![Project Logo](https://github.com/AMHaroun/Password-Generator/blob/main/favicon.ico)
 
 A secure and customizable password generator built with Python using `tkinter`
-
-![Screenshot](images/screenshot.png)
 
 ## Table of Contents
 
